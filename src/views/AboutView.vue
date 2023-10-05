@@ -20,13 +20,11 @@
   <div class="navbar-end">
   </div>
 </div>
-<!-- AboutUs.vue -->
 
   <div class="bg-blue-500 text-black p-8">
     <div class="container mx-auto items-center justify-center">
       <h1 class="text-4xl font-bold mb-4">About</h1>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <!-- Left Column - Team -->
         <div>
           <h2 class="text-2xl font-semibold mb-2">Our Mission</h2>
           <p class="mb-4">
@@ -59,7 +57,6 @@
 </footer>
 </body>
 </template>
-
 
 <style>
 @media (min-width: 1024px) {
